@@ -353,6 +353,15 @@ a.mobile-btn{
 	color:#333333;
 }
 
+.block-about ul.info a {
+	color: #777777;
+}
+
+.block-about ul.info a:hover {
+	color: #199cdb;
+	text-decoration: underline;
+}
+
 .socials li {
     color: #199cdb;
     display: inline;
