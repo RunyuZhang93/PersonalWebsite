@@ -349,15 +349,15 @@ a.mobile-btn{
 }
 
 
-.block-about ul.info span {
+.block-about ul span {
 	color:#333333;
 }
 
-.block-about ul.info a {
+.block-about ul a {
 	color: #777777;
 }
 
-.block-about ul.info a:hover {
+.block-about ul a:hover {
 	color: #199cdb;
 	text-decoration: underline;
 }
